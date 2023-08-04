@@ -1,151 +1,151 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "KiMu Robomatics",
-    "home_page_url": "http://localhost:8080",
-    "feed_url": "http://localhost:8080/feed.json",
+    "home_page_url": "https://jayaveeramani.github.io/",
+    "feed_url": "https://jayaveeramani.github.io/feed.json",
     "description": "Kimu Robomatics",
     "items": [
         {
-            "id": "http://localhost:8080/products/automatekit/projects/dumptruck/",
-            "url": "http://localhost:8080/products/automatekit/projects/dumptruck/",
-            "title": "Dump Truck",
-            "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/dumptruck/RC_Dump_Truck_Arsenals.png",
-            "date_modified": "2023-08-04T09:46:26.869Z"
-        },
-        {
-            "id": "http://localhost:8080/products/automatekit/",
-            "url": "http://localhost:8080/products/automatekit/",
-            "title": "KiMu's AutoMate Kit",
-            "summary": "First Step Towards Robotics",
-            "date_modified": "2023-08-04T09:46:26.870Z"
-        },
-        {
-            "id": "http://localhost:8080/products/automatekit/faq/",
-            "url": "http://localhost:8080/products/automatekit/faq/",
+            "id": "https://jayaveeramani.github.io/products/automatekit/faq/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/faq/",
             "title": "FAQs on Automate Kit",
             "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/faq/USB_Connection_Details.png",
-            "date_modified": "2023-08-04T09:46:26.870Z"
+            "image": "https://jayaveeramani.github.io/products/automatekit/faq/USB_Connection_Details.png",
+            "date_modified": "2023-08-04T09:54:40.212Z"
         },
         {
-            "id": "http://localhost:8080/products/automatekit/projects/lightusingrelay/",
-            "url": "http://localhost:8080/products/automatekit/projects/lightusingrelay/",
-            "title": "Light bulb on/off with remote/timer",
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/dumptruck/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/dumptruck/",
+            "title": "Dump Truck",
             "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/lightusingrelay/LighBulb_onoff_using_relay_Arsenals.png",
-            "date_modified": "2023-08-04T09:46:26.870Z"
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/dumptruck/RC_Dump_Truck_Arsenals.png",
+            "date_modified": "2023-08-04T09:54:40.213Z"
         },
         {
-            "id": "http://localhost:8080/products/automatekit/projects/fanwithNTCsensor/",
-            "url": "http://localhost:8080/products/automatekit/projects/fanwithNTCsensor/",
+            "id": "https://jayaveeramani.github.io/products/automatekit/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/",
+            "title": "KiMu's AutoMate Kit",
+            "summary": "First Step Towards Robotics",
+            "date_modified": "2023-08-04T09:54:40.213Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/fanwithNTCsensor/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/fanwithNTCsensor/",
             "title": "Automatic Fan On/Off using NTC Sensor",
             "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/fanwithNTCsensor/Automatic_fan_on_off_using_NTC-Arsenals.png",
-            "date_modified": "2023-08-04T09:46:26.870Z"
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/fanwithNTCsensor/Automatic_fan_on_off_using_NTC-Arsenals.png",
+            "date_modified": "2023-08-04T09:54:40.213Z"
         },
         {
-            "id": "http://localhost:8080/products/automatekit/projects/excavator/",
-            "url": "http://localhost:8080/products/automatekit/projects/excavator/",
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/lightusingrelay/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/lightusingrelay/",
+            "title": "Light bulb on/off with remote/timer",
+            "summary": "Automate Kit Projects",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/lightusingrelay/LighBulb_onoff_using_relay_Arsenals.png",
+            "date_modified": "2023-08-04T09:54:40.213Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/excavator/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/excavator/",
             "title": "Excavator",
             "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/excavator/RC_Excavator-Arsenals.png",
-            "date_modified": "2023-08-04T09:46:26.870Z"
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/excavator/RC_Excavator-Arsenals.png",
+            "date_modified": "2023-08-04T09:54:40.213Z"
         },
         {
-            "id": "http://localhost:8080/products/automatekit/projects/lightwithlightsensor/",
-            "url": "http://localhost:8080/products/automatekit/projects/lightwithlightsensor/",
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithlightsensor/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithlightsensor/",
             "title": "Light bulb on/off with Light Sensor",
             "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/lightwithlightsensor/Light_bulb_on_off_with_Light_sensor-Arsenels.png",
-            "date_modified": "2023-08-04T09:46:26.871Z"
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithlightsensor/Light_bulb_on_off_with_Light_sensor-Arsenels.png",
+            "date_modified": "2023-08-04T09:54:40.213Z"
         },
         {
-            "id": "http://localhost:8080/products/automatekit/projects/lightwithpirsensor/",
-            "url": "http://localhost:8080/products/automatekit/projects/lightwithpirsensor/",
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithpirsensor/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithpirsensor/",
             "title": "Light bulb on/off with PIR sensor",
             "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/lightwithpirsensor/Light_bulb_on_off_with_PIR_sensor-Arsenals.png",
-            "date_modified": "2023-08-04T09:46:26.871Z"
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithpirsensor/Light_bulb_on_off_with_PIR_sensor-Arsenals.png",
+            "date_modified": "2023-08-04T09:54:40.213Z"
         },
         {
-            "id": "http://localhost:8080/products/automatekit/projects/lightwithsoundsensor/",
-            "url": "http://localhost:8080/products/automatekit/projects/lightwithsoundsensor/",
-            "title": "Light bulb on/off with Sound Sensor",
-            "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/lightwithsoundsensor/Light_bulb_on_off_with_Sound_sensor-Arsenals.png",
-            "date_modified": "2023-08-04T09:46:26.871Z"
-        },
-        {
-            "id": "http://localhost:8080/products/automatekit/projects/linefollowerrobot/",
-            "url": "http://localhost:8080/products/automatekit/projects/linefollowerrobot/",
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/linefollowerrobot/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/linefollowerrobot/",
             "title": "Line Follower Robot",
             "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/linefollowerrobot/Line_following_robot-Arsenals.png",
-            "date_modified": "2023-08-04T09:46:26.871Z"
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/linefollowerrobot/Line_following_robot-Arsenals.png",
+            "date_modified": "2023-08-04T09:54:40.213Z"
         },
         {
-            "id": "http://localhost:8080/products/automatekit/projects/oarfailsafe/",
-            "url": "http://localhost:8080/products/automatekit/projects/oarfailsafe/",
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithsoundsensor/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithsoundsensor/",
+            "title": "Light bulb on/off with Sound Sensor",
+            "summary": "Automate Kit Projects",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithsoundsensor/Light_bulb_on_off_with_Sound_sensor-Arsenals.png",
+            "date_modified": "2023-08-04T09:54:40.213Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/oarfailsafe/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/oarfailsafe/",
             "title": "Obstacle Avoidance Robot with Fail Safe",
             "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/oarfailsafe/OAR_with_Failsafe_Arsenals.png",
-            "date_modified": "2023-08-04T09:46:26.871Z"
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/oarfailsafe/OAR_with_Failsafe_Arsenals.png",
+            "date_modified": "2023-08-04T09:54:40.213Z"
         },
         {
-            "id": "http://localhost:8080/products/automatekit/projects/plantwatering/",
-            "url": "http://localhost:8080/products/automatekit/projects/plantwatering/",
-            "title": "Automatic plant watering",
-            "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/plantwatering/Automatic_plant_watering-Arsenals.png",
-            "date_modified": "2023-08-04T09:46:26.871Z"
-        },
-        {
-            "id": "http://localhost:8080/products/automatekit/projects/soccerrobot/",
-            "url": "http://localhost:8080/products/automatekit/projects/soccerrobot/",
-            "title": "Soccer Robot",
-            "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/soccerrobot/Robo_Soccer_Arsenals.png",
-            "date_modified": "2023-08-04T09:46:26.871Z"
-        },
-        {
-            "id": "http://localhost:8080/products/automatekit/projects/oar/",
-            "url": "http://localhost:8080/products/automatekit/projects/oar/",
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/oar/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/oar/",
             "title": "Obstacle Avoidance Robot",
             "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/oar/OAR_Arsenals.png",
-            "date_modified": "2023-08-04T09:46:26.871Z"
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/oar/OAR_Arsenals.png",
+            "date_modified": "2023-08-04T09:54:40.214Z"
         },
         {
-            "id": "http://localhost:8080/products/automatekit/projects/tanklevelmaintainer/",
-            "url": "http://localhost:8080/products/automatekit/projects/tanklevelmaintainer/",
-            "title": "Tank Level Maintainer",
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/plantwatering/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/plantwatering/",
+            "title": "Automatic plant watering",
             "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/tanklevelmaintainer/Tank_level_maintainer-Arsenals.png",
-            "date_modified": "2023-08-04T09:46:26.871Z"
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/plantwatering/Automatic_plant_watering-Arsenals.png",
+            "date_modified": "2023-08-04T09:54:40.214Z"
         },
         {
-            "id": "http://localhost:8080/products/automatekit/projects/rccar/",
-            "url": "http://localhost:8080/products/automatekit/projects/rccar/",
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/rccar/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/rccar/",
             "title": "Remote-Control Car",
             "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/rccar/RC_Car_Arsenals.png",
-            "date_modified": "2023-08-04T09:46:26.871Z"
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/rccar/RC_Car_Arsenals.png",
+            "date_modified": "2023-08-04T09:54:40.214Z"
         },
         {
-            "id": "http://localhost:8080/products/automatekit/projects/sanitizerdispenser/",
-            "url": "http://localhost:8080/products/automatekit/projects/sanitizerdispenser/",
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/sanitizerdispenser/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/sanitizerdispenser/",
             "title": "Automatic Sanitizer Dispenser",
             "summary": "Automate Kit Projects",
-            "image": "http://localhost:8080/products/automatekit/projects/sanitizerdispenser/Automatic_sanitizer_dispenser-Arsenals.png",
-            "date_modified": "2023-08-04T09:46:26.871Z"
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/sanitizerdispenser/Automatic_sanitizer_dispenser-Arsenals.png",
+            "date_modified": "2023-08-04T09:54:40.214Z"
         },
         {
-            "id": "http://localhost:8080/products/",
-            "url": "http://localhost:8080/products/",
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/soccerrobot/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/soccerrobot/",
+            "title": "Soccer Robot",
+            "summary": "Automate Kit Projects",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/soccerrobot/Robo_Soccer_Arsenals.png",
+            "date_modified": "2023-08-04T09:54:40.214Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/",
+            "url": "https://jayaveeramani.github.io/products/",
             "title": "KiMu Products",
             "summary": "KiMu Products are designed to impart Creative Thinking, Knowledge for future, Self-Confidence, Curiosity among the children. Empower the Teachers in the school classrooms. Kids can learn new things while having fun with KiMu Products.",
-            "date_modified": "2023-08-04T09:46:26.871Z"
+            "date_modified": "2023-08-04T09:54:40.214Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/tanklevelmaintainer/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/tanklevelmaintainer/",
+            "title": "Tank Level Maintainer",
+            "summary": "Automate Kit Projects",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/tanklevelmaintainer/Tank_level_maintainer-Arsenals.png",
+            "date_modified": "2023-08-04T09:54:40.214Z"
         }
     ]
 }
