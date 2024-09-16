@@ -1,0 +1,153 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "KiMu Robomatics",
+    "home_page_url": "https://jayaveeramani.github.io/",
+    "feed_url": "https://jayaveeramani.github.io/feed.json",
+    "description": "Kimu Robomatics",
+    "items": [
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/",
+            "title": "KiMu's AutoMate Kit",
+            "summary": "KiMu's Automate Kit - First step towards robotics -  Build Programmable Robot toys without coding and play with remote control in the Automate App - Perfect robot building kit for beginners, Ideal gift for kids, User friendly, Value for money. Make 100+ STEM projects with controller unit, sensors, electronic modules, actuators available in the kit. Learn Robotics while having fun.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/thumbnail.png",
+            "date_modified": "2024-09-16T11:38:16.887Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/dumptruck/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/dumptruck/",
+            "title": "Dump Truck",
+            "summary": "A dump truck is a vehicle that is used at construction sites to transport construction materials to and from the site. The Dump Truck is one of the projects available in KiMu's Automate Kit. In this Project, user can perform the dump and return motions, in addition to the basic motions (forward, backward, left and right).",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/dumptruck/RC_Dump_Truck_Arsenals.png",
+            "date_modified": "2024-09-16T11:38:16.887Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/excavator/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/excavator/",
+            "title": "Excavator",
+            "summary": "An Excavator is a heavy construction equipment used Primarily for digging, lifting and carrying tasks in various applications. Let’s build an excavator robot using KiMu’s Advanced Automate kit, which utilizes stepper motors to control the excavator arms by a fixed amount of degrees.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/excavator/RC_Excavator-Arsenals.png",
+            "date_modified": "2024-09-16T11:38:16.887Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/faq/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/faq/",
+            "title": "FAQs on Automate Kit",
+            "summary": "Automate Kit Projects FAQs on Automate App, IR sensor, PIR sensor, Sound sensor, Temperature sensor, Calibration, Voltage Input, Digital Input, Digital Output, Control Unit, Automate App settings, Limit Switch, Relay Switch, Debug Feature etc.,",
+            "image": "https://jayaveeramani.github.io/products/automatekit/remotecontrol10.png",
+            "date_modified": "2024-09-16T11:38:16.887Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/lightusingrelay/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/lightusingrelay/",
+            "title": "Light bulb on/off with remote/timer",
+            "summary": "In this project, using KiMu's Automate Kit, we are going to build a system that uses a relay switch to automatically turn on/off the light bulb at specific time(s) or to turn on/off the light bulb using a remote control.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/lightusingrelay/LighBulb_onoff_using_relay_Arsenals.png",
+            "date_modified": "2024-09-16T11:38:16.887Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/linefollowerrobot/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/linefollowerrobot/",
+            "title": "Line Follower Robot",
+            "summary": "Line Follower Robot (LFR) is an intelligent guided robot that follows a line drawn on the ground to detect a dark line on a white surface. It is used in various applications, such as industrial automation, educational robotics, and entertainment. Let's get started and build a Line Follower Robot with KiMu's Automate Advanced Kit.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/linefollowerrobot/Line_following_robot-Arsenals.png",
+            "date_modified": "2024-09-16T11:38:16.888Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithsoundsensor/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithsoundsensor/",
+            "title": "Light bulb on/off with Sound Sensor",
+            "summary": "In this project, using KiMu's Automate Advanced Kit, we are going to build a system that uses relay switch and a sound sensor to automatically turn on/off the light bulb based on the sound.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithsoundsensor/Light_bulb_on_off_with_Sound_sensor-Arsenals.png",
+            "date_modified": "2024-09-16T11:38:16.888Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithlightsensor/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithlightsensor/",
+            "title": "Light bulb on/off with Light Sensor",
+            "summary": "In this project, using KiMu's Automate Advanced Kit, we are going to build a system that uses a relay switch and a light sensor to automatically turn on/off the light bulb based on the light conditions. The system will turn on the light bulb if it is dark and turn it off if the surrounding has enough lighting.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithlightsensor/Light_bulb_on_off_with_Light_sensor-Arsenels.png",
+            "date_modified": "2024-09-16T11:38:16.888Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/fanwithNTCsensor/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/fanwithNTCsensor/",
+            "title": "Automatic Fan On/Off using NTC Sensor",
+            "summary": "Sometimes, we do feel lazy to turn the fan on when the conditions are hot and turn it off when the conditions are cold. Wouldn't it be nice if there were an automated system that could perform this task? With KiMu's Advanced Automate Kit, we are going to build a system to automatically turn on/off the fan based on the temperature using a NTC Sensor. The project has a wide range of applications such as Cooling fans for laptops and computers, as well as energy conservation applications.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/fanwithNTCsensor/Automatic_fan_on_off_using_NTC-Arsenals.png",
+            "date_modified": "2024-09-16T11:38:16.888Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithpirsensor/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithpirsensor/",
+            "title": "Light bulb on/off with PIR sensor",
+            "summary": "In this project, using KiMu's Automate Advanced Kit, we are going to build a system that uses a relay switch and a PIR sensor to automatically turn on/off the light bulb based on the motion detection.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/lightwithpirsensor/Light_bulb_on_off_with_PIR_sensor-Arsenals.png",
+            "date_modified": "2024-09-16T11:38:16.888Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/oar/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/oar/",
+            "title": "Obstacle Avoidance Robot",
+            "summary": "An Obstacle Avoidance Robot is an autonomous robot that can sense and overcome obstacles on its path. It uses Ultrasonic sensors to detect the obstacles on its path. Almost all navigation robots require some form of obstacle detection, hence Obstacle Avoidance Robot is applicable in wide range of fields. Let's build and program the Obstacle Avoidance Robot with KiMu's Automate Kit.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/oar/OAR_Arsenals.png",
+            "date_modified": "2024-09-16T11:38:16.888Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/plantwatering/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/plantwatering/",
+            "title": "Automatic plant watering",
+            "summary": "Watering is the most important practice and the most labour-intensive task in the daily operations related to farming or gardening. Let us automate watering by building an Automatic Plant Watering system with the use of KiMu's Automate Advanced Kit. This system uses moisture sensor to detect the moisture content in the soil and water the plants based on the moisture content.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/plantwatering/Automatic_plant_watering-Arsenals.png",
+            "date_modified": "2024-09-16T11:38:16.888Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/rccar/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/rccar/",
+            "title": "Remote-Control Car",
+            "summary": "Making and building new things is always fun. Open the KiMu’s Automate kit and let’s have fun building a basic remote-control car from scratch. After assembling the car, children can control it to their heart's content by programming the different motions (Forward, Backward, Right, Left) with the Automate app.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/rccar/RC_Car_Arsenals.png",
+            "date_modified": "2024-09-16T11:38:16.888Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/sanitizerdispenser/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/sanitizerdispenser/",
+            "title": "Automatic Sanitizer Dispenser",
+            "summary": "Want to have a hygienic and safe environment around your house? Let us build an automatic sanitizer dispenser with KiMu's Automate Advanced Kit that allows you to sanitize your hands without making any contact. Whenever the distance sensor detects an object within a certain distance, it automatically dispenses the sanitizer.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/sanitizerdispenser/Automatic_sanitizer_dispenser-Arsenals.png",
+            "date_modified": "2024-09-16T11:38:16.888Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/oarfailsafe/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/oarfailsafe/",
+            "title": "Obstacle Avoidance Robot with Fail Safe",
+            "summary": "What if the obstacle is not detected by the ultrasonic sensor? Let us add a fail-safe to the Obstacle Avoidance Robot by incorporating a limit switch. This way, the Limit switch will be activated when it comes into contact with the obstacle.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/oarfailsafe/OAR_with_Failsafe_Arsenals.png",
+            "date_modified": "2024-09-16T11:38:16.889Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/soccerrobot/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/soccerrobot/",
+            "title": "Soccer Robot",
+            "summary": "If you love playing with robots around your house, then you will definitely love this one. This Robot can be operated with a remote control to play soccer by kicking the ball. Let's build the Soccer Robot and score goals like Messi, Ronaldo. Soccer Robot is one of the projects available in the KiMu's Automate Kit.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/soccerrobot/Robo_Soccer_Arsenals.png",
+            "date_modified": "2024-09-16T11:38:16.889Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/automatekit/projects/tanklevelmaintainer/",
+            "url": "https://jayaveeramani.github.io/products/automatekit/projects/tanklevelmaintainer/",
+            "title": "Tank Level Maintainer",
+            "summary": "With KiMu's Automate Advanced Kit, we are going to build a system to automatically maintain the water level in the tank. When the water level in the tank falls below a certain value, the pump will start automatically, transferring water to the tank from another reserve tank. A moisture sensor is utilized in this project to determine the water level.",
+            "image": "https://jayaveeramani.github.io/products/automatekit/projects/tanklevelmaintainer/Tank_level_maintainer-Arsenals.png",
+            "date_modified": "2024-09-16T11:38:16.889Z"
+        },
+        {
+            "id": "https://jayaveeramani.github.io/products/",
+            "url": "https://jayaveeramani.github.io/products/",
+            "title": "Products",
+            "summary": "KiMu's Learning and Educational Toy products are designed to impart Creative Thinking, Self-Confidence, Curiosity, Knowledge of future technologies among the children. Engage kids in technology with KiMu robot toy kits and nurture next generation of successful professionals. Empower the teachers in the school classroom with KiMu's STEM Education solutions.",
+            "image": "https://jayaveeramani.github.io/home/Robo_Soccer.jpeg",
+            "date_modified": "2024-09-16T11:38:16.889Z"
+        }
+    ]
+}

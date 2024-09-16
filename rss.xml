@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>KiMu Robomatics</title>
+        <link>https://jayaveeramani.github.io/</link>
+        <description>Kimu Robomatics</description>
+        <lastBuildDate>Mon, 16 Sep 2024 11:38:16 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://jayaveeramani.github.io/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KiMu's AutoMate Kit]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[KiMu's Automate Kit - First step towards robotics -  Build Programmable Robot toys without coding and play with remote control in the Automate App - Perfect robot building kit for beginners, Ideal gift for kids, User friendly, Value for money. Make 100+ STEM projects with controller unit, sensors, electronic modules, actuators available in the kit. Learn Robotics while having fun.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/thumbnail.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Dump Truck]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/dumptruck/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/dumptruck/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[A dump truck is a vehicle that is used at construction sites to transport construction materials to and from the site. The Dump Truck is one of the projects available in KiMu's Automate Kit. In this Project, user can perform the dump and return motions, in addition to the basic motions (forward, backward, left and right).]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/dumptruck/RC_Dump_Truck_Arsenals.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Excavator]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/excavator/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/excavator/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[An Excavator is a heavy construction equipment used Primarily for digging, lifting and carrying tasks in various applications. Let’s build an excavator robot using KiMu’s Advanced Automate kit, which utilizes stepper motors to control the excavator arms by a fixed amount of degrees.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/excavator/RC_Excavator-Arsenals.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[FAQs on Automate Kit]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/faq/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/faq/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[Automate Kit Projects FAQs on Automate App, IR sensor, PIR sensor, Sound sensor, Temperature sensor, Calibration, Voltage Input, Digital Input, Digital Output, Control Unit, Automate App settings, Limit Switch, Relay Switch, Debug Feature etc.,]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/remotecontrol10.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Light bulb on/off with remote/timer]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/lightusingrelay/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/lightusingrelay/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[In this project, using KiMu's Automate Kit, we are going to build a system that uses a relay switch to automatically turn on/off the light bulb at specific time(s) or to turn on/off the light bulb using a remote control.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/lightusingrelay/LighBulb_onoff_using_relay_Arsenals.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Line Follower Robot]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/linefollowerrobot/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/linefollowerrobot/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[Line Follower Robot (LFR) is an intelligent guided robot that follows a line drawn on the ground to detect a dark line on a white surface. It is used in various applications, such as industrial automation, educational robotics, and entertainment. Let's get started and build a Line Follower Robot with KiMu's Automate Advanced Kit.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/linefollowerrobot/Line_following_robot-Arsenals.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Light bulb on/off with Sound Sensor]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/lightwithsoundsensor/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/lightwithsoundsensor/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[In this project, using KiMu's Automate Advanced Kit, we are going to build a system that uses relay switch and a sound sensor to automatically turn on/off the light bulb based on the sound.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/lightwithsoundsensor/Light_bulb_on_off_with_Sound_sensor-Arsenals.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Light bulb on/off with Light Sensor]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/lightwithlightsensor/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/lightwithlightsensor/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[In this project, using KiMu's Automate Advanced Kit, we are going to build a system that uses a relay switch and a light sensor to automatically turn on/off the light bulb based on the light conditions. The system will turn on the light bulb if it is dark and turn it off if the surrounding has enough lighting.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/lightwithlightsensor/Light_bulb_on_off_with_Light_sensor-Arsenels.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Automatic Fan On/Off using NTC Sensor]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/fanwithNTCsensor/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/fanwithNTCsensor/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[Sometimes, we do feel lazy to turn the fan on when the conditions are hot and turn it off when the conditions are cold. Wouldn't it be nice if there were an automated system that could perform this task? With KiMu's Advanced Automate Kit, we are going to build a system to automatically turn on/off the fan based on the temperature using a NTC Sensor. The project has a wide range of applications such as Cooling fans for laptops and computers, as well as energy conservation applications.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/fanwithNTCsensor/Automatic_fan_on_off_using_NTC-Arsenals.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Light bulb on/off with PIR sensor]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/lightwithpirsensor/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/lightwithpirsensor/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[In this project, using KiMu's Automate Advanced Kit, we are going to build a system that uses a relay switch and a PIR sensor to automatically turn on/off the light bulb based on the motion detection.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/lightwithpirsensor/Light_bulb_on_off_with_PIR_sensor-Arsenals.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Obstacle Avoidance Robot]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/oar/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/oar/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[An Obstacle Avoidance Robot is an autonomous robot that can sense and overcome obstacles on its path. It uses Ultrasonic sensors to detect the obstacles on its path. Almost all navigation robots require some form of obstacle detection, hence Obstacle Avoidance Robot is applicable in wide range of fields. Let's build and program the Obstacle Avoidance Robot with KiMu's Automate Kit.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/oar/OAR_Arsenals.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Automatic plant watering]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/plantwatering/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/plantwatering/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[Watering is the most important practice and the most labour-intensive task in the daily operations related to farming or gardening. Let us automate watering by building an Automatic Plant Watering system with the use of KiMu's Automate Advanced Kit. This system uses moisture sensor to detect the moisture content in the soil and water the plants based on the moisture content.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/plantwatering/Automatic_plant_watering-Arsenals.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Remote-Control Car]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/rccar/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/rccar/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[Making and building new things is always fun. Open the KiMu’s Automate kit and let’s have fun building a basic remote-control car from scratch. After assembling the car, children can control it to their heart's content by programming the different motions (Forward, Backward, Right, Left) with the Automate app.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/rccar/RC_Car_Arsenals.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Automatic Sanitizer Dispenser]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/sanitizerdispenser/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/sanitizerdispenser/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[Want to have a hygienic and safe environment around your house? Let us build an automatic sanitizer dispenser with KiMu's Automate Advanced Kit that allows you to sanitize your hands without making any contact. Whenever the distance sensor detects an object within a certain distance, it automatically dispenses the sanitizer.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/sanitizerdispenser/Automatic_sanitizer_dispenser-Arsenals.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Obstacle Avoidance Robot with Fail Safe]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/oarfailsafe/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/oarfailsafe/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[What if the obstacle is not detected by the ultrasonic sensor? Let us add a fail-safe to the Obstacle Avoidance Robot by incorporating a limit switch. This way, the Limit switch will be activated when it comes into contact with the obstacle.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/oarfailsafe/OAR_with_Failsafe_Arsenals.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Soccer Robot]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/soccerrobot/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/soccerrobot/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[If you love playing with robots around your house, then you will definitely love this one. This Robot can be operated with a remote control to play soccer by kicking the ball. Let's build the Soccer Robot and score goals like Messi, Ronaldo. Soccer Robot is one of the projects available in the KiMu's Automate Kit.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/soccerrobot/Robo_Soccer_Arsenals.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Tank Level Maintainer]]></title>
+            <link>https://jayaveeramani.github.io/products/automatekit/projects/tanklevelmaintainer/</link>
+            <guid>https://jayaveeramani.github.io/products/automatekit/projects/tanklevelmaintainer/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[With KiMu's Automate Advanced Kit, we are going to build a system to automatically maintain the water level in the tank. When the water level in the tank falls below a certain value, the pump will start automatically, transferring water to the tank from another reserve tank. A moisture sensor is utilized in this project to determine the water level.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/products/automatekit/projects/tanklevelmaintainer/Tank_level_maintainer-Arsenals.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Products]]></title>
+            <link>https://jayaveeramani.github.io/products/</link>
+            <guid>https://jayaveeramani.github.io/products/</guid>
+            <pubDate>Mon, 16 Sep 2024 11:38:16 GMT</pubDate>
+            <description><![CDATA[KiMu's Learning and Educational Toy products are designed to impart Creative Thinking, Self-Confidence, Curiosity, Knowledge of future technologies among the children. Engage kids in technology with KiMu robot toy kits and nurture next generation of successful professionals. Empower the teachers in the school classroom with KiMu's STEM Education solutions.]]></description>
+            <enclosure url="https://jayaveeramani.github.io/home/Robo_Soccer.jpeg">
+            </enclosure>
+        </item>
+    </channel>
+</rss>
